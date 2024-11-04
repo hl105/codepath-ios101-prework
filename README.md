@@ -1,5 +1,5 @@
 # GIF demo
-![gif](https://imgur.com/a/9VZjsBr)
+![gif](https://imgur.com/a/9VZjsBr.gif)
 
 # App Brainstorming.
 
